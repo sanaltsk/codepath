@@ -2,4 +2,4 @@
 
 
 
-<img src='https://imgur.com/a/7CpmoAq' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/MLUjFTR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
